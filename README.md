@@ -1,1 +1,1 @@
-# Trex-that-ducks
+# Chrome-Dinosuar-Game
